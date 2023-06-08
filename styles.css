@@ -5,7 +5,7 @@
 }
 
 #wrapper{
-  height:100vh;
+  /* height:100vh; */
   overflow-x:hidden;
   overflow-y:auto;
 }
@@ -79,3 +79,12 @@
   opacity: 1;
   transform: scale(1.03);
 }  
+
+.me{
+  font-weight: 500;
+  text-align: center;
+  margin-top: 7px;
+  margin-bottom: 5px;
+  font-family: cursive;
+  font-size: 0.8rem;
+}
